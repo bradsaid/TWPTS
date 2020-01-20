@@ -1,0 +1,26 @@
+/*
+	Copyright (c) 2008, Element Fusion, LLC. All rights reserved.
+	-------------------------------------------------------------
+	LICENSED FOR USE UNDER A CREATIVE LICENSE AGREEMENT
+	-------------------------------------------------------------
+	This document, and all creative material associated herein,
+	is protected under copyright law to be used exclusively with
+	the Content Management Systems of Element Fusion, LLC.
+	-------------------------------------------------------------
+	You can read the full creative license agreement at:
+	http://www.elementfusion.com/license
+	-------------------------------------------------------------
+	
+	Version 1.0 - August 27, 2008
+		Version 1.1 - August 29, 2008. Updated reset and contents styles to fix minor bugs.
+		Version 1.2 - November 11, 2008. Updated homepage default text and add some default classes for CMS.
+		
+	Template - Design Boi, Midnight
+		
+*/
+
+
+@import "style-reset.css";
+@import "style-contents.css";
+@import "style-template.css";
+   
